@@ -20,7 +20,7 @@ function mes($n){
 for($i=2;$i<=12;$i=$i+2){
 	echo mes($i).'<br>';
 }
-if(strstr $meses('$mes','r')){
+if(strstr ('$meses','r')){
 	echo 'con R, NO PUEDES';
 }
 else{

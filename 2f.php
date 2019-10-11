@@ -1,7 +1,7 @@
 <?php
 if(strstr('marzo','r')){
-	echo 'con R, SI PUEDES';
+	echo 'con R, NO PUEDES';
 }
 else{
-	echo 'sin R, NO PUEDES';
+	echo 'sin R, SI PUEDES';
 }
